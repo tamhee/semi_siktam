@@ -6,8 +6,8 @@
 <head>
     <meta charset="UTF-8">
     <title>eventView_6</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css" type="text/css"/>
-    <link rel="stylesheet" href="../resources/css/eventView_6.css" type="text/css"/>
+    <link rel="stylesheet" href="/resources/css/headerfooterLayout.css" type="text/css"/>
+    <link rel="stylesheet" href="/resources/css/eventView_6.css" type="text/css"/>
     <link href="https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet">
 </head>

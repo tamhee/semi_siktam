@@ -3,5 +3,6 @@
   <display-name>semi_siktam</display-name>
   <welcome-file-list>
     <welcome-file>views/searchConditions_4.jsp</welcome-file>
+    <welcome-file>views/eventView_6.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
