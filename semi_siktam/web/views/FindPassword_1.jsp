@@ -19,19 +19,19 @@
     <div id="container">
 
         <div id="area1">
-            <a href="../view/main_6.html">
+            <a href="../views/main_6.html">
             <div id="area1Img">
                 <img src="../resources/images/KakaoTalk_20200101_193858750.png" alt="">
             </div>
             </a>
         <div id="area3">
-            <a href="../view/IdFind_1.html">
+            <a href="../views/IdFind_1.html">
             <div class="idDiv">
                 <h1>아이디 찾기</h1>
                 <hr class="hr">
             </div>
             </a>
-            <a href="../view/FindPassword_1.html">
+            <a href="../views/FindPassword_1.html">
             <div class="pwdDiv">
                 <h1>비밀번호 찾기</h1>
                 <hr class="hr">
@@ -42,7 +42,7 @@
         <div class="div2">
             <h4>아이디를 입력해주세요.</h4>
             <input type="text" class="text" placeholder="이름을 입력해 주세요">&nbsp;
-            <a href="../view/HowFindPassword_1.html"><button>다음단계</button></a>
+            <a href="../views/HowFindPassword_1.html"><button>다음단계</button></a>
 
         </div>
 

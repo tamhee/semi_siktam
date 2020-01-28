@@ -7,8 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>식탐index</h1>
-	<h1>테스트</h1>
-	<h2>한솔 테스트</h2>
+	<h3>테스트 페이지 목록</h3>
+	<ol>
+		<li>
+			<a href="view/login_2.jsp">로그인</a>
+		</li>
+		<li>
+			<a href="views/main_6">메인</a>
+		</li>
+	</ol>
 </body>
 </html>
