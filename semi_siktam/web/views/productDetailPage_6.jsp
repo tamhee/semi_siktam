@@ -25,9 +25,9 @@
         <div class="pagemainimg"></div>
         <div class="pageselect">
             <!-- %% 업체정보연결-->
-            <a href="productDetailPage_6.html"><div id="information"><span>업체정보</span></div></a>
+            <a href="productDetailPage_6.jsp"><div id="information"><span>업체정보</span></div></a>
             <!-- %% 리뷰연결-->
-            <a href="productReviewPage_7.html"><div id="review"><span>리뷰(1,389)</span></div></a>
+            <a href="productReviewPage_7.jsp"><div id="review"><span>리뷰(1,389)</span></div></a>
         </div>
         <!-- 상단 업체명/설명/예약버튼 -->
         <div id="pagetop">
@@ -35,7 +35,7 @@
             <span>맛있는 김이 서리는 감칠맛 진한 국물 매끄러운 질감 속 숨은 쫄깃한 면발의 식감 역전우동0410은 외식경영전문가 백종원의 우동&소바 전문점입니다.
                 유난히 지친 하루의 끝자락에서 문득 따끈한 우동 국물이 떠오를 때 언제든 누구든 부담없이 문을 열고 들어가서 든든한 한끼를 대접받을 수 있는 곳입니다.</span>
             <!-- %% 예약페이지연결-->
-            <a href="reservation_4.html"><input type="button" id="reservation" value="예약하기"></a>
+            <a href="reservation_4.jsp"><input type="button" id="reservation" value="예약하기"></a>
         </div>
 
     <!-- 매장정보 -->

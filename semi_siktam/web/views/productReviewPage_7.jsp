@@ -20,9 +20,9 @@
         <div class="pagemainimg"></div>
         <div class="pageselect">
             <!-- %% 업체정보연결-->
-            <a href="productDetailPage_6.html"><div id="information"><span>업체정보</span></div></a>
+            <a href="productDetailPage_6.jsp"><div id="information"><span>업체정보</span></div></a>
             <!-- %% 리뷰연결-->
-            <a href="productReviewPage_7.html"><div id="review"><span>리뷰(1,389)</span></div></a>
+            <a href="productReviewPage_7.jsp"><div id="review"><span>리뷰(1,389)</span></div></a>
         </div>
 
         <div id="pagetop">

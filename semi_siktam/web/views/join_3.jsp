@@ -26,19 +26,19 @@
     <div id="container">
         <div id="area1">
         <div id="logo1"> <!--가운데 로고-->
-            <a href="main_6.html"><img src="../resources/images/KakaoTalk_20200101_193858750.png"></a>
+            <a href="main_6.jsp"><img src="../resources/images/KakaoTalk_20200101_193858750.png"></a>
         </div>
         <div class="line"></div>
         <div id="page"> <!--개인/업체 감싼 div-->
             <div id="person"> <!--개인-->
-                <a href="registerPerson_5.html"><img src="../resources/images/noun_person_2561902.png">
+                <a href="registerPerson_5.jsp"><img src="../resources/images/noun_person_2561902.png">
                 
                 <p>개인회원으로 가입하기</p>
                 </a>
             </div>
 
             <div id="store"><!--업체-->
-            <a href="registerCompany_2.html"><img src="../resources/images/noun_Store_850694.png">
+            <a href="registerCompany_2.jsp"><img src="../resources/images/noun_Store_850694.png">
             <p>기업으로 가입하기</p></a>
         </div>
         </div>

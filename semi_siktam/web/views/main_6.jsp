@@ -11,15 +11,13 @@
 <head>
     <meta charset="UTF-8">
     <title>식탐메인</title>
-    <!-- <link rel="stylesheet" href="../resources/css/headerfooterLayout.css"> -->
-    <link rel="stylesheet" href="../resources/css/main_6.css">
-    <script src="../resources/js/jquery-3.4.1.min.js"></script>
+    <!-- <script src="../resources/js/jquery-3.4.1.min.js"></script> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/siktam/resources/css/main_6.css">
 
     <style>
-
         /* 이벤트 배너(bootstrap)*/
         .carousel-inner > .item > img,
         .carousel-inner > .item > a > img {
@@ -66,12 +64,12 @@
     <header>
         <nav>
             <div id="nav">
-                <div id="logodiv"><a href="main_6.html"><img id="logo" src="../resources/images/KakaoTalk_20200101_193858750.png" alt=""></a></div>
+                <div id="logodiv"><a href="main_6.jsp"><img id="logo" src="../resources/images/KakaoTalk_20200101_193858750.png" alt=""></a></div>
                 <div id="navp">
-                    <a class="navp" href="notice_5.html"><span>공지사항</span></a>
-                    <a class="navp" href="notice_5.html"><span>문의사항</span></a>
-                    <a class="navp" href="mypagePerson_5.html"><span>마이페이지</span></a>
-                    <a class="navp" href="login_2.html"><span style="border: 2px solid rgb(13, 78, 100); color:white; background-color: rgb(13, 78, 100);">로그인</span></a>
+                    <a class="navp" href="notice_5.jsp"><span>공지사항</span></a>
+                    <a class="navp" href="notice_5.jsp"><span>문의사항</span></a>
+                    <a class="navp" href="mypagePerson_5.jsp"><span>마이페이지</span></a>
+                    <a class="navp" href="login_2.jsp"><span style="border: 2px solid rgb(13, 78, 100); color:white; background-color: rgb(13, 78, 100);">로그인</span></a>
                 </div>
             </div>
         </nav>
@@ -83,7 +81,7 @@
     <div id="div1">
         <img src="../resources/images/searchbar.png" alt="">
         <input id="searchtext" type="text" placeholder="지역을 입력해주세요" id="searchcontent">
-        <a href="searchConditions_4.html"><button id="searchbtn"><span class="glyphicon glyphicon-search"></span></button></a>
+        <a href="searchConditions_4.jsp"><button id="searchbtn"><span class="glyphicon glyphicon-search"></span></button></a>
     </div>
 
     <!-- 이벤트배너 -->
@@ -144,7 +142,7 @@
             </li>
             
             
-            <li class="banner" onclick="location.href = 'eventView_6.html'">               
+            <li class="banner" onclick="location.href = 'eventView_6.jsp'">               
                 <div class="bannertext2">전국 쌀국수 맛집<br>TOP 5</div>
                 <div class="bannerimgb2"></div>                              
             </li>

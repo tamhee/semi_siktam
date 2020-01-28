@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>headerfooterLayout</title>
-    <link rel="stylesheet" href="../resources/css/login_2.css">
+    <link rel="stylesheet" href="/siktam/resources/css/login_2.css">
 </head>
 <body>
 	

@@ -78,35 +78,35 @@
                                     <input type="checkbox" class="chk_1" name="agree1" id="agree1" value="agree1">
                                     이용약관동의(필수)
                                 </label>
-                                <a href="termsOfUse_5.html" target="_blank"><sub>내용보기</sub></a>
+                                <a href="termsOfUse_5.jsp" target="_blank"><sub>내용보기</sub></a>
                             </li>
                             <li class="chk-info">
                                 <label>
                                     <input type="checkbox" class="chk_1" name="agree1" id="agree2" value="agree2">
                                     개인정보수집 및 이용동의(필수)
                                 </label>
-                                <a href="termsOfUse_5.html" target="_blank"><sub>내용보기</sub></a>
+                                <a href="termsOfUse_5.jsp" target="_blank"><sub>내용보기</sub></a>
                             </li>
                             <li class="chk-info">
                                 <label>
                                     <input type="checkbox" class="chk_1" name="agree1" id="agree3" value="agree3">
                                     전자금융거래 이용약관(필수)
                                 </label>
-                                <a href="termsOfUse_5.html" target="_blank"><sub>내용보기</sub></a>
+                                <a href="termsOfUse_5.jsp" target="_blank"><sub>내용보기</sub></a>
                             </li>
                             <li class="chk-info">
                                 <label>
                                     <input type="checkbox" class="chk_1" name="agree1" id="agree4" value="agree4">
                                     만 14세 이상 이용자(필수)
                                 </label>
-                                <a href="termsOfUse_5.html" target="_blank"><sub>내용보기</sub></a>
+                                <a href="termsOfUse_5.jsp" target="_blank"><sub>내용보기</sub></a>
                             </li>
                             <li class="chk-info">
                                 <label>
                                     <input type="checkbox" class="chk_1"name="agree1" id="agree5" value="agree5">
                                     식탐 혜택알림 동의(선택)
                                 </label>
-                                <a href="termsOfUse_5.html" target="_blank"><sub>내용보기</sub></a>
+                                <a href="termsOfUse_5.jsp" target="_blank"><sub>내용보기</sub></a>
                             </li>
                             
                             

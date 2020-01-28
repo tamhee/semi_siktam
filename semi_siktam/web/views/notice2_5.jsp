@@ -62,7 +62,7 @@
                        </tbody>
                    </table>
                    <div class="list">
-                       <input type="button" value="목록" onclick="location.href='notice_5.html'">
+                       <input type="button" value="목록" onclick="location.href='notice_5.jsp'">
                    </div>
             </div>
             

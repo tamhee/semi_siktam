@@ -125,7 +125,7 @@
         </table><br>
         
         <input type="submit" class="btn" value="수정" onclick="return check();">
-        <input type="reset" class="btn" value="취소" onclick="location.href = 'mypageShop_5.html'">
+        <input type="reset" class="btn" value="취소" onclick="location.href = 'mypageShop_5.jsp'">
         </div>
         
     </form>

@@ -85,7 +85,7 @@
         <br><br>
         <!-- <input type="button" value="예약취소"> -->
         <div id="button">
-            <input type="button" value="확인" onclick="location.href = 'main_6.html'">
+            <input type="button" value="확인" onclick="location.href = 'main_6.jsp'">
         </div>
         
     </div>

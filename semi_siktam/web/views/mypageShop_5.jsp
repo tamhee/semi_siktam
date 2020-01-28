@@ -214,7 +214,7 @@
                             <td>한식</td>
                             <td>02-1234-5678</td>
                             <td>서울 강남구 테헤란로10길 25</td>
-                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.html'">
+                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.jsp'">
                                 <input type="button" value="삭제" class="confirm" id="cancel"></td>
                         </tr>
                         <tr class="reservationTr">
@@ -223,7 +223,7 @@
                             <td>한식</td>
                             <td>02-558-1154</td>
                             <td>서울 서초구 강남대로69길 10</td>
-                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.html'">
+                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.jsp'">
                                 <input type="button" value="삭제" class="confirm" id="cancel"></td>
                         </tr>
                         <tr class="reservationTr">
@@ -232,7 +232,7 @@
                             <td>한식</td>
                             <td>02-887-8878</td>
                             <td>서울 서대문구 명물길 20</td>
-                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.html'">
+                            <td><input type="button" value="수정" class="confirm" id="change" onclick="location.href='registerCompany_2_5.jsp'">
                                 <input type="button" value="삭제" class="confirm" id="cancel"></td>
                         </tr>
                         
@@ -306,7 +306,7 @@
                     <li class="registStore2Add">
                         <div>
                             <div id="plusBtn1">
-                            <input type="button" id="plusBtn2" value="+" onclick="location.href='registerCompany_2.html'">
+                            <input type="button" id="plusBtn2" value="+" onclick="location.href='registerCompany_2.jsp'">
                             </div>
                         </div>
                     </li>

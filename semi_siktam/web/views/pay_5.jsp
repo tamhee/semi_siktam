@@ -127,15 +127,15 @@
                 </div>
                 <div id="content1-4">
                   <ul id="agree">
-                      <li><label for="all_chk" class="chk_label" id="all_chk"><input type="checkbox" id="all_chk" class="chk" onclick="allselect(this.checked)">전체동의</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li><hr>
+                      <li><label for="all_chk" class="chk_label" id="all_chk"><input type="checkbox" id="all_chk" class="chk" onclick="allselect(this.checked)">전체동의</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li><hr>
                       <li><label for="sms_agree" class="chk_label"><input type="checkbox" id="sms_agree" name="agree" class="chk">SMS 수신동의</label></li>
-                      <li><label for="use_agree" class="chk_label"><input type="checkbox" id="use_agree" name="agree" class="chk">이용약관 동의(필수)</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li>
-                      <li><label for="collect_chk" class="chk_label"><input type="checkbox" id="collect_agree" name="agree" class="chk">개인정보 수집 및 이용동의(필수)</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li>
-                      <li><label for="third_agree" class="chk_label"><input type="checkbox" id="third_agree" name="agree" class="chk">개인정보 제3자 제공동의(필수)</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li>
-                      <li><label for="electronic_agree" class="chk_label"><input type="checkbox" id="electronic_agree" name="agree" class="chk">전자금융거래 이용약관(필수)</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li>
-                      <li><label for="fourteen_agree" class="chk_label"><input type="checkbox" id="fourteen_agree" name="agree" class="chk">만 14세 이상 사용자(필수)</label><a href="termsOfUse2_5.html" target="_blank"><small>내용보기</small></a></li>
+                      <li><label for="use_agree" class="chk_label"><input type="checkbox" id="use_agree" name="agree" class="chk">이용약관 동의(필수)</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li>
+                      <li><label for="collect_chk" class="chk_label"><input type="checkbox" id="collect_agree" name="agree" class="chk">개인정보 수집 및 이용동의(필수)</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li>
+                      <li><label for="third_agree" class="chk_label"><input type="checkbox" id="third_agree" name="agree" class="chk">개인정보 제3자 제공동의(필수)</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li>
+                      <li><label for="electronic_agree" class="chk_label"><input type="checkbox" id="electronic_agree" name="agree" class="chk">전자금융거래 이용약관(필수)</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li>
+                      <li><label for="fourteen_agree" class="chk_label"><input type="checkbox" id="fourteen_agree" name="agree" class="chk">만 14세 이상 사용자(필수)</label><a href="termsOfUse2_5.jsp" target="_blank"><small>내용보기</small></a></li>
                   </ul>
-                  <input type="button" id="payment" value="결제하기" onclick="location.href = 'payPrint_1.html'">
+                  <input type="button" id="payment" value="결제하기" onclick="location.href = 'payPrint_1.jsp'">
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
 
         // <!-- 쿠폰선택 눌리면 popup창뜸 -->
         // function open() {
-        //     var url = "termsOfUse2_5.html";
+        //     var url = "termsOfUse2_5.jsp";
         //     var name = "popup test";
         //     var option = "width = 800, height = 500, top = 100, left = 200, location = no"
         //     window.open(url, name, option);
@@ -175,7 +175,7 @@
             var popupX = (document.body.offsetWidth / 2) - (200 / 2);// 초기값 var popupX = (document.body.offsetWidth / 2) - (200 / 2);
             var popupY = (document.body.offsetHeight / 2);
         
-        window.open('payPrint_1.html','예약완료','width=1000px, height=800px, scrollbars= no, toolbar=no, menubar=no,location=no,left='+ popupX + ', top='+ popupY+"'");
+        window.open('payPrint_1.jsp','예약완료','width=1000px, height=800px, scrollbars= no, toolbar=no, menubar=no,location=no,left='+ popupX + ', top='+ popupY+"'");
         } */
 
     </script>

@@ -52,7 +52,7 @@
     <%@ include file="common/header.jsp" %>
 
     <!-- 이 안에 작업하기 -->
-    <form method="POST" target="_self" action="pay_5.html">
+    <form method="POST" target="_self" action="pay_5.jsp">
     <div id="title">
         <div id="titleImg">
             <img src="../resources/images/udon.png" alt="">
@@ -373,7 +373,7 @@
 
         function test1(){
             if(confirm("정말 취소 하시겠습니까?\n(취소시 주문 내역은 삭제 됩니다)")){
-                location.href='mypagePerson_5.html';
+                location.href='mypagePerson_5.jsp';
             }
         };
 

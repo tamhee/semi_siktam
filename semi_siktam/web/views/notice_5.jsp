@@ -33,56 +33,56 @@
                         <tbody>
                             <tr>
                               <td>08</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>07</td>
-                              <td><a href="notice2_5.html">적립금 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">적립금 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>06</td>
-                              <td><a href="notice2_5.html">쿠폰 지급 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">쿠폰 지급 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>05</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>04</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>03</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>02</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>
                             </tr>
                             <tr>
                               <td>01</td>
-                              <td><a href="notice2_5.html">결제 관련 안내</a></td>
+                              <td><a href="notice2_5.jsp">결제 관련 안내</a></td>
                               <td>관리자</td>
                               <td>2020/01/25</td>
                               <td>151</td>

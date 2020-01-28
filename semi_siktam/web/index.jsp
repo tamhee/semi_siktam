@@ -10,10 +10,7 @@
 	<h3>테스트 페이지 목록</h3>
 	<ol>
 		<li>
-			<a href="view/login_2.jsp">로그인</a>
-		</li>
-		<li>
-			<a href="views/main_6">메인</a>
+			<a href="main_6.jsp">메인</a>
 		</li>
 	</ol>
 </body>

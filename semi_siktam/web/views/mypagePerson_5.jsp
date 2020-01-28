@@ -22,7 +22,7 @@
                 <ul class="storeInfo2">
                     <li id="userName"><b>유승제</b>님 안녕하세요</li>
                     <li><b>내 프로필</b>
-                    <a href="registerPerson_5_7.html"><input type="button" class="btn1" value="수정하기"></a></li><hr>
+                    <a href="registerPerson_5_7.jsp"><input type="button" class="btn1" value="수정하기"></a></li><hr>
                     <li><b>예약 내역</b>
                     <input type="button" class="btn1" value="수정하기" onclick="test1();"></li><hr>
                     <li><b>결제 내역</b>
@@ -52,8 +52,8 @@
                             <td>13:00~14:00</td>
                             <td>김치우동 1</td>
                             <!-- 변경 클릭 시 예약변경 페이지로 이동 -->
-                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.html'"> &nbsp;
-                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.html'"></td>
+                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.jsp'"> &nbsp;
+                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.jsp'"></td>
                         </tr>
                         <tr class="reservationTr">
                             <td>청목</td>
@@ -61,8 +61,8 @@
                             <td>17:00~18:00</td>
                             <td>오늘의메뉴 1</td>
                             <!-- 변경 클릭 시 예약변경 페이지로 이동 -->
-                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.html'"> &nbsp;
-                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.html'"></td>
+                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.jsp'"> &nbsp;
+                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.jsp'"></td>
                         </tr>
                         <tr class="reservationTr">
                             <td>곱창이야기</td>
@@ -70,8 +70,8 @@
                             <td>18:00~19:00</td>
                             <td>소막창 1</td>
                             <!-- 변경 클릭 시 예약변경 페이지로 이동 -->
-                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.html'"> &nbsp;
-                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.html'"></td>
+                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.jsp'"> &nbsp;
+                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.jsp'"></td>
                         </tr>
                         <tr class="reservationTr">
                             <td>싸움의고수</td>
@@ -79,8 +79,8 @@
                             <td>13:00~14:00</td>
                             <td>보쌈정식XL 1</td>
                             <!-- 변경 클릭 시 예약변경 페이지로 이동 -->
-                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.html'"> &nbsp;
-                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.html'"></td>
+                            <td><input type="button" value="변경" class="confirm" id="change" onclick="location.href='modify_3.jsp'"> &nbsp;
+                            <input type="button" value="취소" class="confirm" id="cancel" onclick="location.href='mypagePerson_5.jsp'"></td>
                         </tr>
                         
                         
@@ -148,7 +148,7 @@
                 /* var popupX = (document.body.offsetWidth / 2) - (200 / 2);// 초기값 var popupX = (document.body.offsetWidth / 2) - (200 / 2);
                 var popupY= (document.body.offsetHeight / 2) - (300 / 2);
 
-                window.open("mypageShopReservationList_5.html","popup",'width=300, height=400, scrollbars= no, toolbar=no, menubar=no,location=no,left='+ popupX + ', top='+ popupY+"'"); */ 
+                window.open("mypageShopReservationList_5.jsp","popup",'width=300, height=400, scrollbars= no, toolbar=no, menubar=no,location=no,left='+ popupX + ', top='+ popupY+"'"); */ 
             }
 
             function test2(){
@@ -165,7 +165,7 @@
                 document.getElementById('content2').style.display = "block";
             }
             function informationChange(){
-                window.open("registerPerson_5_7.html");
+                window.open("registerPerson_5_7.jsp");
             }
         </script>
 
@@ -178,7 +178,7 @@
             <div id="registStore">
                 <ul>
                     <li>
-                        <div class="registStore2" onclick="location.href='productDetailPage_6.html'">
+                        <div class="registStore2" onclick="location.href='productDetailPage_6.jsp'">
                             <img src="../resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
                             <h4 align="center">역전우동</h4>
                             <p align="center"><small>서울 강남구 테헤란로10길 25</small></p>
@@ -201,7 +201,7 @@
                     <li class="registStore2Add">
                         <div>
                             <div id="plusBtn1">
-                            <input type="button" id="plusBtn2" value="+" onclick="location.href='searchConditions_4.html'">
+                            <input type="button" id="plusBtn2" value="+" onclick="location.href='searchConditions_4.jsp'">
                             </div>
                         </div>
                     </li>
@@ -218,7 +218,7 @@
                 <div id="registStore">
                     <ul>
                         <li>
-                            <div class="registStore2" onclick="location.href='productDetailPage_6.html'">
+                            <div class="registStore2" onclick="location.href='productDetailPage_6.jsp'">
                                 <img src="../resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
                                 <h4 align="center">역전우동</h4>
                                 <p align="center"><small>서울 강남구 테헤란로10길 25</small></p>
@@ -241,7 +241,7 @@
                         <li class="registStore2Add">
                             <div>
                                 <div id="plusBtn1">
-                                <input type="button" id="plusBtn2" value="+" onclick="location.href='searchConditions_4.html'">
+                                <input type="button" id="plusBtn2" value="+" onclick="location.href='searchConditions_4.jsp'">
                                 </div>
                             </div>
                         </li>

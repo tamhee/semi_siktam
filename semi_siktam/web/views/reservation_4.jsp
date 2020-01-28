@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>예약페이지</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
     <!-- 추가 -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
@@ -13,14 +13,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <!-- x버튼 -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- datepicker -->
-    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-    <script src="https://code.jquery.com/jquery.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
-    <!-- timepicker -->
-    <link rel="stylesheet" href="https://cdn.rawgit.com/fgelinas/timepicker/master/jquery.ui.timepicker.css">
-    <script src='https://cdn.rawgit.com/fgelinas/timepicker/master/jquery.ui.timepicker.js'></script>
-    <link rel="stylesheet" href="../resources/css/reservation_4.css">
+ 
+    <link rel="stylesheet" href="/siktam/resources/css/reservation_4.css">
     <script>
         $(function() {
             $( "#datepicker1" ).datepicker({
@@ -54,7 +48,7 @@
     <%@ include file="common/header.jsp" %>
 
     <!-- 이 안에 작업하기 -->
-    <form method="POST" target="_self" action="pay_5.html">
+    <form method="POST" target="_self" action="pay_5.jsp">
     <div id="title">
         <div id="titleImg">
             <img src="../resources/images/udon.png" alt="">
@@ -346,7 +340,7 @@
 
                 <div id="result4">
                     <input type="submit" value="결제" id="btnSubmit" class="btn">
-                    <input type="reset" value="취소" id="btnReset" class="btn" onclick="location.href = 'productDetailPage_6.html';">
+                    <input type="reset" value="취소" id="btnReset" class="btn" onclick="location.href = 'productDetailPage_6.jsp';">
                 </div>
             </div>
         </div>
