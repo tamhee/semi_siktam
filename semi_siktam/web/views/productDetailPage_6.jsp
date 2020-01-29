@@ -6,8 +6,8 @@
 <head>
     <meta charset="UTF-8">
     <title>상세페이지</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/productDetailPage_6.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/productDetailPage_6.css">
     <!-- 지도 설치 스크립트 -->
     
     <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
@@ -43,19 +43,19 @@
         <div id="pageinfodiv">
             <div id="infospan"> 매장정보 </div><div id="infohr"><hr></div>
             <div class="pageicon">
-                <img class="iconimg" src="../resources/images/search.png" alt="">
+                <img class="iconimg" src="/siktam/resources/images/search.png" alt="">
                 <p class="icontext">1인 테이블</p>
             </div>
             <div class="pageicon">
-                <img class="iconimg" src="../resources/images/search.png" alt="">
+                <img class="iconimg" src="/siktam/resources/images/search.png" alt="">
                 <p class="icontext">1인 테이블</p>
             </div>
             <div class="pageicon">
-                <img class="iconimg" src="../resources/images/search.png" alt="">
+                <img class="iconimg" src="/siktam/resources/images/search.png" alt="">
                 <p class="icontext">1인 테이블</p>
             </div>
             <div class="pageicon">
-                <img class="iconimg" src="../resources/images/search.png" alt="">
+                <img class="iconimg" src="/siktam/resources/images/search.png" alt="">
                 <p class="icontext">1인 테이블</p>
             </div><br>
             <p class="infop">매장 전화번호 : </p> <p class="infop2">02-123-4567</p><br>
@@ -69,7 +69,7 @@
         <div id="pagemenudiv">
             <div id="menuspan"> 메뉴 </div><div id="menuhr"><hr></div>
             <div class="menubox">
-                <div class="menuimg"><img src="../resources/images/tamhate1.jpg" alt=""></div>
+                <div class="menuimg"><img src="/siktam/resources/images/tamhate1.jpg" alt=""></div>
                 <div class="menutext">
                     <h4>옛날 우동</h4>
                     <p>진한 가츠오 국물맛과 쫄깃한 면발의 만남이 달콤한 역전우동의 대표 우동메뉴</p>
@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="menubox">
-                <div class="menuimg"><img src="../resources/images/tamhate1.jpg" alt=""></div>
+                <div class="menuimg"><img src="/siktam/resources/images/tamhate1.jpg" alt=""></div>
                 <div class="menutext">
                     <h4>냉모밀</h4>
                     <p>사계절 내내 사랑받는 역전우동0410의 시원,담백한 냉모밀</p>
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="menubox">
-                <div class="menuimg"><img src="../resources/images/tamhate1.jpg" alt=""></div>
+                <div class="menuimg"><img src="/siktam/resources/images/tamhate1.jpg" alt=""></div>
                 <div class="menutext">
                     <h4>김치 우동</h4>
                     <p>볶음 김치가 얹어져 더욱 시원하고 깊은 맛을 내는 역전우동0410만의 특별한 우동</p>
@@ -93,7 +93,7 @@
                 </div>
             </div>
             <div class="menubox">
-                <div class="menuimg"><img src="../resources/images/tamhate1.jpg" alt=""></div>
+                <div class="menuimg"><img src="/siktam/resources/images/tamhate1.jpg" alt=""></div>
                 <div class="menutext">
                     <h4>야채 튀김 우동</h4>
                     <p>겉은 바삭하고 속은 부드러운 야채튀김과 우동의 환상조합</p>

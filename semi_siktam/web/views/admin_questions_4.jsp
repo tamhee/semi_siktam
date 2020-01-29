@@ -57,13 +57,13 @@
         <th></th>
       </tr>
       <tr>
-        <td colspan="2">13cm 사이즈 재입고는 언제 되나요? 상품명 : [한국배송] 프리츠한센 이케바나 화병 3종 / Fritz hansen Ikebana Vases .. 
+        <td colspan="2">13cm 사이즈 재입고는 언제 되나요? 상품명 : [한국배송] 프리츠한센 이케바나 화병 3종 / Fritz hansen Ikebana Vases 
         </td>
         <td colspan="4" style="overflow: auto;">
           혜택가가 아니라도 좋습니다. 13cm 사이즈 재입고는 언제 되나요?
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
           <!-- Modal -->
           <div id="delmember" class="modal fade" role="dialog">
@@ -101,7 +101,7 @@
           화면상에보이는 벽고리도 함께 제공되는건가요?
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
 
           <!-- Modal -->
@@ -131,7 +131,7 @@
 
       <tr>
         <td colspan="2">문의있어요~ 
-          상품명 : [천장후드] Luxus Deckenhaube 120cm/Aus Edelstahl/Inklusive Saugstarken ..  
+          상품명 : [천장후드] Luxus Deckenhaube 120cm/Aus Edelstahl/Inklusive Saugstarken  
           
         </td>
         <td colspan="4" style="overflow: auto;">
@@ -144,7 +144,7 @@
 
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">답변</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
 
           <!-- Modal -->

@@ -51,7 +51,7 @@
     <form method="POST" target="_self" action="pay_5.jsp">
     <div id="title">
         <div id="titleImg">
-            <img src="../resources/images/udon.png" alt="">
+            <img src="/siktam/resources/images/udon.png" alt="">
         </div>
         <div id="titleText">
             <h1><b>역전우동</b>(예약하기)</h1>
@@ -88,67 +88,67 @@
         <div id="tab-1" class="tab-content current">
             <table id="tbl">
                 <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>후라이드 치킨</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>후라이드 치킨</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
-                    </td>
-                </tr>
-
-                <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
-                    <td>후라이드 치킨</td>
-                    <td>5000원</td>
-                    <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
-                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>후라이드 치킨</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td>후라이드 치킨</td>
+                    <td>5000원</td>
+                    <td>
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>                   
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>후라이드 치킨</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/03.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>후라이드 치킨</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
             </table>
@@ -157,67 +157,67 @@
         <div id="tab-2" class="tab-content">
             <table id="tbl">
                 <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>콤비네이션 피자</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>콤비네이션 피자</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
-                    </td>
-                </tr>
-
-                <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
-                    <td>콤비네이션 피자</td>
-                    <td>5000원</td>
-                    <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
-                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>콤비네이션 피자</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td>콤비네이션 피자</td>
+                    <td>5000원</td>
+                    <td>
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>                   
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>콤비네이션 피자</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/10.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>콤비네이션 피자</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
             </table>
@@ -226,67 +226,67 @@
         <div id="tab-3" class="tab-content">
             <table id="tbl">
                 <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>간짜장</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
                 <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>간짜장</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
-                    </td>
-                </tr>
-
-                <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
-                    <td>간짜장</td>
-                    <td>5000원</td>
-                    <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
-                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>간짜장</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td>간짜장</td>
+                    <td>5000원</td>
+                    <td>
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <input type="text" name="num" value="0" id="" class="num" size="1"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>                   
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>간짜장</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
 
                 <tr>
-                    <td><img src="../resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
+                    <td><img src="/siktam/resources/images/04.png" style="width:100px" alt="Image" class="img-thumbnail"></td>
                     <td>간짜장</td>
                     <td>5000원</td>
                     <td>
-                        <img src="../resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
+                        <img src="/siktam/resources/images/leftArrow.png" alt="" width="10" height="10" class="bt_down" />
                         <input type="text" name="num" value="0" id="" class="num" size="1"/>
-                        <img src="../resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
+                        <img src="/siktam/resources/images/rightArrow.png" alt="" width="10" height="10" class="bt_up"/>
                     </td>
                 </tr>
             </table>

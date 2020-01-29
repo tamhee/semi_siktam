@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <title>마이페이지(개인)</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/mypage_person_5.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/mypage_person_5.css">
 </head>
 <body>
     <!-- 헤더 시작 -->
@@ -179,21 +179,21 @@
                 <ul>
                     <li>
                         <div class="registStore2" onclick="location.href='productDetailPage_6.jsp'">
-                            <img src="../resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
+                            <img src="/siktam/resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
                             <h4 align="center">역전우동</h4>
                             <p align="center"><small>서울 강남구 테헤란로10길 25</small></p>
                         </div>
                     </li>
                     <li>
                         <div class="registStore2" onclick="location.href=''">
-                            <img src="../resources/images/곱창이야기.png" class="registStoreImg" alt="곱창이야기" width="170px" height="120px"><br>
+                            <img src="/siktam/resources/images/곱창이야기.png" class="registStoreImg" alt="곱창이야기" width="170px" height="120px"><br>
                             <h4 align="center">곱창이야기</h4>
                             <p align="center"><small>서울 서초구 강남대로69길 10</small></p>
                         </div>
                     </li>
                     <li>
                         <div class="registStore2" onclick="location.href=''">
-                            <img src="../resources/images/싸움의고수.png" class="registStoreImg" alt="싸움의고수" width="170px" height="120px"><br>
+                            <img src="/siktam/resources/images/싸움의고수.png" class="registStoreImg" alt="싸움의고수" width="170px" height="120px"><br>
                             <h4 align="center">싸움의고수</h4>
                             <p align="center"><small>서울 서대문구 명물길 20</small></p>
                         </div>
@@ -219,21 +219,21 @@
                     <ul>
                         <li>
                             <div class="registStore2" onclick="location.href='productDetailPage_6.jsp'">
-                                <img src="../resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
+                                <img src="/siktam/resources/images/역전우동.png" class="registStoreImg" alt="역전우동" width="170px" height="120px"><br>
                                 <h4 align="center">역전우동</h4>
                                 <p align="center"><small>서울 강남구 테헤란로10길 25</small></p>
                             </div>
                         </li>
                         <li>
                             <div class="registStore2" onclick="location.href=''">
-                                <img src="../resources/images/곱창이야기.png" class="registStoreImg" alt="곱창이야기" width="170px" height="120px"><br>
+                                <img src="/siktam/resources/images/곱창이야기.png" class="registStoreImg" alt="곱창이야기" width="170px" height="120px"><br>
                                 <h4 align="center">곱창이야기</h4>
                                 <p align="center"><small>서울 서초구 강남대로69길 10</small></p>
                             </div>
                         </li>
                         <li>
                             <div class="registStore2" onclick="location.href=''">
-                                <img src="../resources/images/싸움의고수.png" class="registStoreImg" alt="싸움의고수" width="170px" height="120px"><br>
+                                <img src="/siktam/resources/images/싸움의고수.png" class="registStoreImg" alt="싸움의고수" width="170px" height="120px"><br>
                                 <h4 align="center">싸움의고수</h4>
                                 <p align="center"><small>서울 서대문구 명물길 20</small></p>
                             </div>

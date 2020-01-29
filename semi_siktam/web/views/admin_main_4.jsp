@@ -27,7 +27,7 @@
         <a href="admin_storeRegister_4.jsp">
           <div class="card2">
             <div class="cardTop">
-              <img src="../resources/images/shop.png" alt="image">
+              <img src="/siktam/resources/images/shop.png" alt="image">
               업체 등록 요청
             </div> 
             <div class="cardBottom"> 
@@ -38,7 +38,7 @@
         <a href="admin_questions_4.jsp">
           <div class="card2"> 
             <div class="cardTop">
-              <img src="../resources/images/qna.png" alt="image">
+              <img src="/siktam/resources/images/qna.png" alt="image">
               문의 사항
             </div> 
             <div class="cardBottom"> 

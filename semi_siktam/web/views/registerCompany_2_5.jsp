@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <title>업체정보수정</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/registerCompany_2_5.css">
-    <script src="../resources/js/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/registerCompany_2_5.css">
+    <script src="/siktam/resources/js/jquery-3.4.1.min.js"></script>
 
     
 </head>

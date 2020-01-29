@@ -29,7 +29,7 @@
             
             <div class="bannerMenu">
                 <div class="menuImg">
-                    <img src="../resources/images/tamhate1.jpg" alt="">
+                    <img src="/siktam/resources/images/tamhate1.jpg" alt="">
                 </div>
                 <div class="menuText">
                     <h3 class="rank">TOP 1</h3>
@@ -41,7 +41,7 @@
             </div>
             <div class="bannerMenu">
                 <div class="menuImg">
-                    <img src="../resources/images/ssal1.jpg" alt="">
+                    <img src="/siktam/resources/images/ssal1.jpg" alt="">
                 </div>
                 <div class="menuText">
                     <h3 class="rank">TOP 2</h3>
@@ -53,7 +53,7 @@
             </div>
             <div class="bannerMenu">
                 <div class="menuImg">
-                    <img src="../resources/images/ssal2.png" alt="">
+                    <img src="/siktam/resources/images/ssal2.png" alt="">
                 </div>
                 <div class="menuText">
                     <h3 class="rank">TOP 3</h3>
@@ -65,7 +65,7 @@
             </div>
             <div class="bannerMenu">
                 <div class="menuImg">
-                    <img src="../resources/images/ssal3.jpg" alt="">
+                    <img src="/siktam/resources/images/ssal3.jpg" alt="">
                 </div>
                 <div class="menuText">
                     <h3 class="rank">TOP 4</h3>
@@ -77,7 +77,7 @@
             </div>
             <div class="bannerMenu">
                 <div class="menuImg">
-                    <img src="../resources/images/ssal4.jpg" alt="">
+                    <img src="/siktam/resources/images/ssal4.jpg" alt="">
                 </div>
                 <div class="menuText">
                     <h3 class="rank">TOP 5</h3>

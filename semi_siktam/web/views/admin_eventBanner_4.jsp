@@ -89,7 +89,7 @@
           <input type="file">
         </td>
         <td colspan="2">
-          <img src="../resources/images/birds1.jpg" alt="" style="width: 300px; height: 300px;">
+          <img src="/siktam/resources/images/birds1.jpg" alt="" style="width: 300px; height: 300px;">
         </td>
         <td class="text-right">
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
@@ -122,7 +122,7 @@
           <input type="file">
         </td>
         <td colspan="2">
-          <img src="../resources/images/birds2.jpg" alt="" style="width: 300px; height: 300px;">
+          <img src="/siktam/resources/images/birds2.jpg" alt="" style="width: 300px; height: 300px;">
         </td>
         <td class="text-right">
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
@@ -155,7 +155,7 @@
           <input type="file">
         </td>
         <td colspan="2">
-          <img src="../resources/images/birds3.jpg" alt="" style="width: 300px; height: 300px;">
+          <img src="/siktam/resources/images/birds3.jpg" alt="" style="width: 300px; height: 300px;">
         </td>
         <td class="text-right">
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>

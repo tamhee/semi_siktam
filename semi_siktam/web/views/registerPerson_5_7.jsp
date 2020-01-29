@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <title>회원정보 수정</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/register_person_5_7.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/register_person_5_7.css">
     
 </head>
 <body>

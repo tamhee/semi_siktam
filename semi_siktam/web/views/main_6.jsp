@@ -11,7 +11,7 @@
 <head>
     <meta charset="UTF-8">
     <title>식탐메인</title>
-    <!-- <script src="../resources/js/jquery-3.4.1.min.js"></script> -->
+    <!-- <script src="/siktam/resources/js/jquery-3.4.1.min.js"></script> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -45,7 +45,7 @@
         
         @font-face{
             font-family:'배달의민족 주아'; 
-            src:url('../resources/fonts/BMJUA_ttf.ttf');
+            src:url('/siktam/resources/fonts/BMJUA_ttf.ttf');
         }
 
         body{
@@ -64,7 +64,7 @@
     <header>
         <nav>
             <div id="nav">
-                <div id="logodiv"><a href="main_6.jsp"><img id="logo" src="../resources/images/KakaoTalk_20200101_193858750.png" alt=""></a></div>
+                <div id="logodiv"><a href="main_6.jsp"><img id="logo" src="/siktam/resources/images/KakaoTalk_20200101_193858750.png" alt=""></a></div>
                 <div id="navp">
                     <a class="navp" href="notice_5.jsp"><span>공지사항</span></a>
                     <a class="navp" href="notice_5.jsp"><span>문의사항</span></a>
@@ -79,7 +79,7 @@
 
     <!-- 검색창 -->
     <div id="div1">
-        <img src="../resources/images/searchbar.png" alt="">
+        <img src="/siktam/resources/images/searchbar.png" alt="">
         <input id="searchtext" type="text" placeholder="지역을 입력해주세요" id="searchcontent">
         <a href="searchConditions_4.jsp"><button id="searchbtn"><span class="glyphicon glyphicon-search"></span></button></a>
     </div>
@@ -98,7 +98,7 @@
           <div class="carousel-inner" role="listbox">
       
             <div class="item active">
-              <img src="../resources/images/banner1.png" alt="img" width="800" height="400">
+              <img src="/siktam/resources/images/banner1.png" alt="img" width="800" height="400">
               <!-- <div class="carousel-caption">
                 <h3>Chania</h3>
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -106,15 +106,15 @@
             </div>
       
             <div class="item">
-                <img src="../resources/images/banner2.png" alt="img" width="800" height="400">
+                <img src="/siktam/resources/images/banner2.png" alt="img" width="800" height="400">
             </div>
           
             <div class="item">
-                <img src="../resources/images/banner3.png" alt="img" width="400" height="200">
+                <img src="/siktam/resources/images/banner3.png" alt="img" width="400" height="200">
             </div>
       
             <div class="item">
-                <img src="../resources/images/banner4.png" alt="img" width="400" height="200">
+                <img src="/siktam/resources/images/banner4.png" alt="img" width="400" height="200">
             </div>
         
           </div>

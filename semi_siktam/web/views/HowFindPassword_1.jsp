@@ -5,8 +5,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/HowFindPassword_1.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/HowFindPassword_1.css">
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <title>Find Id</title>
     
@@ -19,19 +19,19 @@
     <div id="container">
         
         <div id="area1">
-            <a href="../view/main_6.jsp">
+            <a href="/siktam/view/main_6.jsp">
             <div id="area1Img">
-                <img src="../resources/images/KakaoTalk_20200101_193858750.png" alt="">
+                <img src="/siktam/resources/images/KakaoTalk_20200101_193858750.png" alt="">
             </div>
             </a>
         <div id="area3">
-            <a href="../view/IdFind_1.jsp">
+            <a href="/siktam/view/IdFind_1.jsp">
             <div class="idDiv">
                 <h1>아이디 찾기</h1>
                 <hr class="hr">
             </div>
             </a>
-            <a href="../view/FindPassword_1.jsp">
+            <a href="/siktam/view/FindPassword_1.jsp">
             <div class="pwdDiv">
                 <h1>비밀번호 찾기</h1>
                 <hr class="hr">

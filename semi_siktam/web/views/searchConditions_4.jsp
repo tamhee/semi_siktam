@@ -85,7 +85,7 @@
     <div id="result">
             <table border="1px" id="tbl">
                 <tr onclick="location.href='productDetailPage_6.jsp'">
-                    <td id="img"><img src="../resources/images/조건_역전우동.png"  style="width:100%" alt="Image" class="img-thumbnail"></td>
+                    <td id="img"><img src="/siktam/resources/images/조건_역전우동.png"  style="width:100%" alt="Image" class="img-thumbnail"></td>
                     <td id="txt"  style="word-break:break-all">
                         <h4><b>역전 우동</b></h4>
                         <ul>
@@ -96,7 +96,7 @@
                     </td>
                 </tr>
                 <tr onclick="location.href='productDetailPage_6.jsp'">
-                    <td id="img"><img src="../resources/images/진씨화로.jpg"  style="width:100%" alt="Image" class="img-thumbnail"></td>
+                    <td id="img"><img src="/siktam/resources/images/진씨화로.jpg"  style="width:100%" alt="Image" class="img-thumbnail"></td>
                     <td id="txt"  style="word-break:break-all">
                         <h4><b>진씨화로</b></h4>
                         <ul>
@@ -107,7 +107,7 @@
                     </td>
                 </tr>
                 <tr onclick="location.href='productDetailPage_6.jsp'">
-                    <td id="img"><img src="../resources/images/곱창.png"  style="width:100%" alt="Image" class="img-thumbnail"></td>
+                    <td id="img"><img src="/siktam/resources/images/곱창.png"  style="width:100%" alt="Image" class="img-thumbnail"></td>
                     <td id="txt"  style="word-break:break-all">
                         <h4><b>곱창이야기</b></h4>
                         <ul>
@@ -118,7 +118,7 @@
                     </td>
                 </tr>
                 <tr onclick="location.href='productDetailPage_6.jsp'">
-                    <td id="img"><img src="../resources/images/tamhate2.jpg"  style="width:100%" alt="Image" class="img-thumbnail"></td>
+                    <td id="img"><img src="/siktam/resources/images/tamhate2.jpg"  style="width:100%" alt="Image" class="img-thumbnail"></td>
                     <td id="txt"  style="word-break:break-all">
                         <h4><b>에머이</b></h4>
                         <ul>

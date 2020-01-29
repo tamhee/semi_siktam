@@ -55,7 +55,7 @@
         <th colspan="2">제목</th>
         <th colspan="4">내용</thcolspan="4">
           <th class="text-right">
-            <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#addmember" id="registerBtn">등록</button></a>
+            <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#addmember" id="registerBtn">등록</button></a>
           </th>
       </tr>
       <tr>
@@ -65,7 +65,7 @@
           이번 패치에서는 지하세계의 거물인 세트를 만나보실 수 있으며, 리그 오브 레전드의 또 다른 나쁜 남자인 사일러스를 위한 큰 업데이트가 적용됩니다. 사일러스 변경사항의 주목적은 사일러스를 대표하는 돌격형 전사 방식의 플레이 스타일을 유지하면서도 사일러스가 중단 공격로에서 더 많이 사용되도록 하는 것입니다.
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
           <!-- Modal -->
           <div id="delmember" class="modal fade" role="dialog">
@@ -100,7 +100,7 @@
         
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
 
           <!-- Modal -->
@@ -135,7 +135,7 @@
           9.24b 전략적 팀 전투 패치를 확인하실 시간입니다. 이번 패치에서는 일반적인 밸런스 변경사항과 함께 3성 챔피언의 능력치 증가량이 변경됩니다. 3성 챔피언 완성 시 증가하는 체력과 공격력이 약간 줄어드는 대신 스킬 위력이 증가하도록 변경됩니다.
         </td>
         <td align="right">
-          <a href="../resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
+          <a href="/siktam/resources/api/smarteditor/SmartEditor2Skin.html"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modmember">수정</button></a>
           <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#delmember">삭제</button>
 
           <!-- Modal -->

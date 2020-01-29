@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <title>pay5</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/pay_5.css">
-    <script src="../resources/js/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/pay_5.css">
+    <script src="/siktam/resources/js/jquery-3.4.1.min.js"></script>
 </head>
 <body>
     <!-- 헤더 시작 -->
@@ -17,7 +17,7 @@
     <div id="area1">
     <div id="StoreTitle">
         <div id="titleImg">
-            <img src="../resources/images/udon.png" alt="">
+            <img src="/siktam/resources/images/udon.png" alt="">
         </div>
         <div id="titleText">
             <h1><b>역전우동</b>(결제하기)</h1>
@@ -51,14 +51,14 @@
                                 <th class="paytableth">네이버페이 결제</th>
                                 <td class="noline">
                                     <label for="creditcard2"><input type="radio" id="creditcard2" name="pay" class="pay">
-                                    <img src="../resources/images/네이버페이_로고_(800px_X_400px).jpg" id="naver" alt="네이버페이로고"></label>
+                                    <img src="/siktam/resources/images/네이버페이_로고_(800px_X_400px).jpg" id="naver" alt="네이버페이로고"></label>
                                 </td>
                             </tr>
                             <tr>
                                 <th class="paytableth">카카오페이 결제</th>
                                 <td class="noline">
                                     <label for="creditcard3"><input type="radio" id="creditcard3" name="pay" class="pay">
-                                    <img src="../resources/images/카카오페이.png"  id="kakao" alt="카카오페이"></label>
+                                    <img src="/siktam/resources/images/카카오페이.png"  id="kakao" alt="카카오페이"></label>
                                 </td>
                             </tr>
                         </tbody>

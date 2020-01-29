@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <title>결제하기(이용약관)</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/termsOfUse_5.css">
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/termsOfUse_5.css">
 </head>
 <body>
     <!-- 헤더 시작 -->

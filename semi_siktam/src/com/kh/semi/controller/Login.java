@@ -37,7 +37,7 @@ public class Login extends HttpServlet {
 		request.setAttribute("id", id);
 		request.setAttribute("pwd", pwd);
 		
-		RequestDispatcher view = request.getRequestDispatcher("views/main_6.jsp");
+		RequestDispatcher view = request.getRequestDispatcher("/siktam/views/main_6.jsp");
 		view.forward(request, response);
 	}
 

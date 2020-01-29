@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <title>리뷰 페이지</title>
-    <link rel="stylesheet" href="../resources/css/headerfooterLayout.css">
-    <link rel="stylesheet" href="../resources/css/productReviewPage_7.css">
-    <script src="../resources/js/jquery-3.4.1.min.js"></script>
+    <link rel="stylesheet" href="/siktam/resources/css/headerfooterLayout.css">
+    <link rel="stylesheet" href="/siktam/resources/css/productReviewPage_7.css">
+    <script src="/siktam/resources/js/jquery-3.4.1.min.js"></script>
 
 </head>
 <body>
@@ -37,7 +37,7 @@
         <div id="score"> <!-- 평점 -->
             <div id="number" class="scoreIn">
                 <h3 id="numberScore">4.0점</h3><br>
-                <!--<img id="scoreNumber" src="../resources/images/star.png" alt="">-->
+                <!--<img id="scoreNumber" src="/siktam/resources/images/star.png" alt="">-->
                 <!-- <div class="starRev">
                     <span class="starR on">별1</span>
                     <span class="starR">별2</span>
@@ -90,7 +90,7 @@
         <div id="reviewWriteText">
             <div class="allReview" id="writeReview">
                 <div>
-                    <img class="id1" src="../resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">id</label>
+                    <img class="id1" src="/siktam/resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">id</label>
                 </div>
                 <br>
                 <label>별점 : </label>
@@ -121,7 +121,7 @@
 
         <div class="allReview">
             <div class="personInfo">
-                <img class="id1" src="../resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">hyeonhee9411</label>
+                <img class="id1" src="/siktam/resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">hyeonhee9411</label>
                 <div class="bottomBtn"><button id="btn1" class="reviewBtn">▼</button>▼</div>
             </div>
             <div id="personReview1" class="personReview">
@@ -135,7 +135,7 @@
                 </label>
                 <br><br>
                 <div class="imgDiv">
-                    <img src="../resources/images/07.png" class="reviewImg" alt="">
+                    <img src="/siktam/resources/images/07.png" class="reviewImg" alt="">
                 </div>
                 <br>
                 <p>족발이 사진과 너무 다르게 와서 양도 적고 아쉽지만 맛은 정말 맛있습니다!<br>다음에 또 시켜먹을께요!</p>
@@ -146,7 +146,7 @@
 
         <div class="allReview">
             <div class="personInfo">
-                <img class="id1" src="../resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">tamheekim0110</label>
+                <img class="id1" src="/siktam/resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">tamheekim0110</label>
                 <div class="bottomBtn"><button id="btn2" class="reviewBtn">▼</button>▼</div>
             </div>
             <div id="personReview2" class="personReview">
@@ -160,7 +160,7 @@
                 </label>
                 <br><br>
                 <div class="imgDiv">
-                    <img src="../resources/images/tamlove1.jpg" class="reviewImg" alt="">
+                    <img src="/siktam/resources/images/tamlove1.jpg" class="reviewImg" alt="">
                 </div>
                 <br>
                 <p>매주 찾아가서 먹는 곱찾이지만 전혀 느끼하지 않고 생간과 천엽이 너무너무 신선해요!<br>
@@ -173,7 +173,7 @@
 
         <div class="allReview">
             <div class="personInfo">
-                <img class="id1" src="../resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">jiwonseo309</label>
+                <img class="id1" src="/siktam/resources/images/person1.png" alt="">&nbsp;&nbsp;<label class="idLabel">jiwonseo309</label>
                 <div class="bottomBtn"><button id="btn3" class="reviewBtn">▼</button>▼</div>
             </div>
             <div id="personReview3" class="personReview">
@@ -187,7 +187,7 @@
                 </label>
                 <br><br>
                 <div class="imgDiv">
-                    <img src="../resources/images/05.png" class="reviewImg" alt="">
+                    <img src="/siktam/resources/images/05.png" class="reviewImg" alt="">
                 </div>
                 <br>
                 <p>역시 한국인의 해장에는 빨간 국물이 최고인거 같네요!<br>
